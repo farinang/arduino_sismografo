@@ -1,1 +1,1 @@
-# arduino_sismografo
+# Proyecto Sismógrafo
